@@ -1,12 +1,17 @@
 body {
     background-color: #080710;
-    
+    background-image: url('./public/background.png');
+  
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    height: 100vh;
     
 }
 
 
 .background {
-    background-color: black;
+    background-color: #012a4a;
     width: 430px;
     height: 480px;
     position: absolute;
